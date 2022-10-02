@@ -1,0 +1,20 @@
+#container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+h2{
+    text-align: center;
+}
+.container-sm{
+    width: 50%;
+    border-radius: 5px;
+}
+#input{
+    border-top: 2px grey solid;
+    border-left: 2px grey solid;
+
+}
+#text{
+    font-weight: bold;
+}
